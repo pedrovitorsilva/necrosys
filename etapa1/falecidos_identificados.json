@@ -1,0 +1,40 @@
+{
+    "pessoas": [
+        {
+            "codigo": "falecido01",
+            "nome": "Darlene Maia",
+            "idade": 35,
+            "sangue": "A+",
+            "fotos": [
+                "rostos/darlene1.jpg",
+                "rostos/darlene2.jpg",
+                "rostos/darlene3.jpg"
+            ]
+            ,"causa_morte": "acidente"
+        },
+        {
+            "codigo": "falecido02",
+            "nome": "Elliot Surge",
+            "idade": 40,
+            "sangue": "B+",
+            "fotos": [
+                "rostos/elliot1.jpg",
+                "rostos/elliot2.jpg",
+                "rostos/elliot3.jpg"
+            ],
+            "causa_morte": "assassinato"
+        },
+        {
+            "codigo": "falecido03",
+            "nome": "Price Money",
+            "idade": 76,
+            "sangue": "O-",
+            "fotos": [
+                "rostos/price1.jpg",
+                "rostos/price2.jpg",
+                "rostos/price3.jpg"
+            ],
+            "causa_morte": "infarto"
+        }
+    ]
+}
