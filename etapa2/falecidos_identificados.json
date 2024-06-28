@@ -1,0 +1,28 @@
+{
+    "pessoas": [
+        {
+            "codigo": "falecido01",
+            "nome": "Elliot Surge",
+            "idade": 40,
+            "sangue": "B+",
+            "fotos": [
+                "rostos/elliot1.jpg",
+                "rostos/elliot2.jpg",
+                "rostos/elliot3.jpg"
+            ],
+            "causa_morte": "assassinato"
+        },
+        {
+            "codigo": "falecido02",
+            "nome": "Price Money",
+            "idade": 76,
+            "sangue": "O-",
+            "fotos": [
+                "rostos/price1.jpg",
+                "rostos/price2.jpg",
+                "rostos/price3.jpg"
+            ],
+            "causa_morte": "infarto"
+        }
+    ]
+}
