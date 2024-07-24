@@ -16,7 +16,7 @@ POSSIVEIS_FALECIDOS = [
     "rostos/personagens4.jpeg"
 ]
 
-fotos_dos_falecidos = []  # E pacientes reconhecidos?? linha 183
+fotos_dos_falecidos = [] 
 
 # Definindo ciclos e definindo probabilidades dos acontecimentos
 
